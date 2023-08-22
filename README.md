@@ -1,5 +1,5 @@
 # Car-Gallery
-I have created a project that i could improve my skills on interfaces, inheritances and car movements
+I have created a project that i could improve my skills on interfaces, inheritances and car movement
 
 ![Ekran Görüntüsü (85)](https://github.com/berenpolat/Car-Gallery/assets/118939273/2f2ffdcb-8a5f-468a-b7fd-1b4db6f9629c)
 
